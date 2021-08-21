@@ -171,7 +171,7 @@ def echo(client, message):
         [InlineKeyboardButton("Greek", callback_data='el'),
          InlineKeyboardButton("Italian", callback_data='it'),
          InlineKeyboardButton("Nepali", callback_data='ne')
-         InlineKeyboardButton("Kurdish (Central) ", callback_data='knc')
+         InlineKeyboardButton("Kurdish", callback_data='knc')
         ]
     ]
  
