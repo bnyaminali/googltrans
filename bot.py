@@ -172,7 +172,7 @@ def echo(client, message):
          InlineKeyboardButton("Italian", callback_data='it'),
          InlineKeyboardButton("Nepali", callback_data='ne')
          InlineKeyboardButton("Kurdish", callback_data='knc')
-        ]
+         ],
     ]
  
  )
